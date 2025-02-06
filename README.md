@@ -108,13 +108,6 @@ This project is a **React Vite** application that displays a user profile fetche
 
 ---
 
-## Submission Instructions
-
-1. Take screenshots of the application in both default and hover states.
-2. Submit the screenshots via the designated platform (e.g., Internshala chat).
-
----
-
 ## Acknowledgments
 
 - [Random User API](https://randomuser.me/) for providing test data.
