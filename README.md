@@ -1,6 +1,3 @@
-Here's an updated `README.md` tailored for a **React Vite** app:
-
----
 
 # Profile Card with Random User API
 
