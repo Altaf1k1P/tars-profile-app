@@ -92,10 +92,10 @@ This project is a **React Vite** application that displays a user profile fetche
 ## Screenshots
 
 ### Default State:
-![Default State](https://drive.google.com/file/d/10Y8zoMtkau00YVriBHQOLZTE9jn6Un5T/view?usp=sharing)
+![Default State](public/Screenshot%202025-02-06%20144118.png)
 
 ### Hover State:
-![Hover State](https://drive.google.com/file/d/1-hlokNy2-hALgSL2sTk5oXIzwBJXc2Bf/view?usp=sharing)
+![Hover State](public/Screenshot%202025-02-06%20144139.png)
 
 ---
 
